@@ -1,0 +1,27 @@
+h1 {
+font-family: 'Mali';
+font-size: 30px;
+color: pink;
+text-align: center;
+}
+
+h3 {font-family: 'Mali';
+font-size: 30px;
+color:pink
+}
+
+h8 {font-family: 'Mali';
+font-size: 50px;
+color:pink
+}
+
+
+#nav{
+  border:1px solid black;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 10px
+  font-family: 'Open Sans Condensed',sans-serif;
+  text-align: center;
+  max-width: 200px
+}
